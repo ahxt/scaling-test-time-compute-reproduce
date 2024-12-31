@@ -1,0 +1,14 @@
+*.json
+3rd_party
+cache.*
+__pycache__
+*.log
+*.py
+*.slurm
+*.sh
+!greedy_sgl.py
+!sampling_sgl.py
+!prm_sgl.py
+!eval_greedy.py
+!eval_majority.py
+!eval_wbestofn.py
